@@ -334,6 +334,16 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    text-transform: none;
+}
+
+aside h2.section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 40px;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    text-transform: none;
 }
 
 section h3.section-subheading {
